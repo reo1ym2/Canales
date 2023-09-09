@@ -1,47 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BratTV.us",Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.fr",Clubbing TV (720p)
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us",Comedy Dynamics (1080p)
-https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p) [Not 24/7]
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.us",ESTV (1080p)
-https://estv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us",FailArmy International (720p)
-https://failarmy-international-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl",Insight TV (720p)
-https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl",InWonder (720p)
-https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoneStar.us",Lone Star (1080p)
-https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere (1080p)
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us",People are Awesome (720p)
-https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es",Rakuten Action Movies Spain (720p)
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es",Rakuten Comedy Movies Spain (720p)
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es",Rakuten TV Family Spain (720p)
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es",Rakuten Spotlight Spain (720p)
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es",The Pet Collective Europe (720p)
-https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us",WeatherSpy Europe (720p)
-https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk",Wonder (1080p)
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us",Young Hollywood (720p)
-https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten Top Free Spain (720p)
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Shows Spain (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+http://185.23.213.162:8789/live/ania/ania/14065.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+http://185.23.213.162:8789/live/ania/ania/14062.m3u8
+#EXTINF:-1,|ES| TOROS FHD
+http://185.23.213.162:8789/live/ania/ania/23154.m3u8
+#EXTINF:-1,|ES| M GOL TV
+http://185.23.213.162:8789/live/ania/ania/14082.m3u8
+#EXTINF:-1,|ES| M beINSPORT HD
+http://185.23.213.162:8789/live/ania/ania/14076.m3u8
+#EXTINF:-1,|ES| M beINSPORTS
+http://185.23.213.162:8789/live/ania/ania/14077.m3u8
+#EXTINF:-1,|ES| M beIN LALIGA
+http://185.23.213.162:8789/live/ania/ania/14075.m3u8
+#EXTINF:-1,|ES| M LALIGA TV Bar HD
+http://185.23.213.162:8789/live/ania/ania/14071.m3u8
+#EXTINF:-1,|ES| M REAL MADRID TV
+http://185.23.213.162:8789/live/ania/ania/14084.m3u8
+#EXTINF:-1,|ES| M BARCA TV
+http://185.23.213.162:8789/live/ania/ania/14085.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14060.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1
+http://185.23.213.162:8789/live/ania/ania/14059.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 FHD
+http://185.23.213.162:8789/live/ania/ania/14053.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 HD
+http://185.23.213.162:8789/live/ania/ania/14052.m3u8
+#EXTINF:-1,|ES| M MOTOGP FHD
+http://185.23.213.162:8789/live/ania/ania/14051.m3u8
+#EXTINF:-1,|ES| M GOLF HD
+http://185.23.213.162:8789/live/ania/ania/14057.m3u8
